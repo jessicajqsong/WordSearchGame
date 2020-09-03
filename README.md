@@ -6,12 +6,13 @@ Features:
 * A 10x10 grid with 6 target words to find
 * The app keeps track of how many words the user has found
 * Allow the user to find the words by swiping over the words, vertically or horizontally
+* Keeps track of the time spent to finish the game
 * Only works in portrait
 * There are cute cats :)
 
 Screenshots:
-![Welcome](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/1.png)
-![InitialState](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/2.png)
-![WrongWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/3.png)
-![CorrectWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/4.png)
-![Winning](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png)
+![Welcome](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/1.png | width=300)
+![InitialState](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/2.png | width=300)
+![WrongWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/3.png | width=300)
+![CorrectWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/4.png | width=300)
+![Winning](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png | width=300)
