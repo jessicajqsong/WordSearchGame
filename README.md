@@ -11,8 +11,11 @@ Features:
 * There are cute cats :)
 
 Screenshots:
-![Welcome](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/1.png | width=300)
-![InitialState](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/2.png | width=300)
-![WrongWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/3.png | width=300)
-![CorrectWordSelected](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/4.png | width=300)
-![Winning](https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png | width=300)
+(Located in /img if the pictures are not loading)
+
+<img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/1.png" height="512" width="288">
+<img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/2.png" height="512" width="288">
+<img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/3.png" height="512" width="288">
+<img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/4.png" height="512" width="288">
+<img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png" height="512" width="288">
+
